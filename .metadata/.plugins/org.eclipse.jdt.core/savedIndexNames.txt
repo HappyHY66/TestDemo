@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+D:\AD\SourceTree\home3\.metadata\.plugins\org.eclipse.jdt.core
-2891820624.index
